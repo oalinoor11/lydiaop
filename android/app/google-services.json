@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "879137712995",
+    "project_id": "lidya-7b218",
+    "storage_bucket": "lidya-7b218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879137712995:android:c664594c0dc57bdcedc156",
+        "android_client_info": {
+          "package_name": "com.lidyagold.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879137712995-kv9or43p42luac5jth2ik9258jshp4pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lidyagold.app",
+            "certificate_hash": "aa1529326abf00ccf7174713a0e98c85f8fd69e9"
+          }
+        },
+        {
+          "client_id": "879137712995-f2rl9kkoafrd41li632d17k0jkpbdnih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAneLPw2QF7DHgxQgJD4XSm4S55j-FvirU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879137712995-f2rl9kkoafrd41li632d17k0jkpbdnih.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "879137712995-64re0s6dcc3ktmokrrv269bj0nuhspru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lidyagold.app",
+                "app_store_id": "1572473567"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
